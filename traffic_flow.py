@@ -11,7 +11,7 @@ from noise_data import noise_data_dict
 from choose_vel import vel_distribution
 from scipy.special import gamma
 from AsymMode import asymmode
-import Traffic_object_Proportion
+
 
 
 def traffic_generate(traffic_name,lane_number,Traffic_object_P,lane_range_start,lane_range_end,traffic_flow_density,Traffic_characters,traffic_flow_speed):
